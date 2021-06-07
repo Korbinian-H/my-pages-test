@@ -1,4 +1,3 @@
-- [ ] test images
+- [x] test images
 - [x] test cross reference
-- [ ] test format modifications
-- [ ] test custom css
+- [x] test custom css
