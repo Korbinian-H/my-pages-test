@@ -1,3 +1,0 @@
-- [x] test images
-- [x] test cross reference
-- [x] test custom css
