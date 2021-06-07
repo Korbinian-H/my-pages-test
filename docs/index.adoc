@@ -1,8 +1,0 @@
-# Hello World!
-
-*To do:*
-
-- test images
-- test cross reference
-- test format modifications
-- test custom css
