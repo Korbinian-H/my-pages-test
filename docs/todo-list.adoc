@@ -1,5 +1,3 @@
-*To do:*
-
 - [ ] test images
 - [x] test cross reference
 - [ ] test format modifications
